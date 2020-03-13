@@ -87,3 +87,8 @@
 1. week6의 데이터를 사용하여 MAP@10, nDCG@10, binary nDCG@10을 구하기(binary는 평점이 4이상이면 1, 4미만이면 0으로 변환)
 > - pandas의 rank 함수는 method='first'를 적용하여 동점을 처리한다.
 * notebook : [homework_week7](https://github.com/gimys/recommeder_system/blob/master/week7/homework_week7.ipynb)  
+
+### 7. Week8
+- 스터디 내용 : 기본적인 추천 알고리즘 실습 및 논문 작성을 위한 선행 연구 조사 결과 공유
+
+- 과제  
