@@ -93,4 +93,4 @@
 
 - 과제  
 1. pytorch의 dataloader 사용을 위한 class 오버라이딩 실습  
-* notebook : [homework_week7](https://github.com/gimys/recommeder_system/blob/master/week8/homework_week8.ipynb)  
+* notebook : [homework_week8](https://github.com/gimys/recommeder_system/blob/master/week8/homework_week8.ipynb)  
