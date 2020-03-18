@@ -92,3 +92,5 @@
 - 스터디 내용 : 기본적인 추천 알고리즘 실습 및 논문 작성을 위한 선행 연구 조사 결과 공유
 
 - 과제  
+1. pytorch의 dataloader 사용을 위한 class 오버라이딩 실습  
+* notebook : [homework_week7](https://github.com/gimys/recommeder_system/blob/master/week8/homework_week8.ipynb)  
