@@ -94,3 +94,10 @@
 - 과제  
 1. pytorch의 dataloader 사용을 위한 class 오버라이딩 실습  
 * notebook : [homework_week8](https://github.com/gimys/recommeder_system/blob/master/week8/homework_week8.ipynb)  
+
+### 8. Week9
+- 스터디 내용 : surprise 모듈을 활용한 Matrix Factorization 실습  
+
+- 과제  
+1. Surprise를 사용해서 binary 데이터의 Matrix Factorization 실시  
+* notebook : [homework_week9](https://github.com/gimys/recommeder_system/blob/master/week9/homework_week9.ipynb)  
