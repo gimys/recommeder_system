@@ -1,6 +1,7 @@
-# 추천시스템 스터디 자료 보존용
-- Coursera 강의를 중심으로 스터디 진행
-- 스터디 공부 내용을 주차별로 정리
+# 추천시스템 스터디  
+- Coursera 강의를 중심으로 스터디 진행 후, 논문 실습 스터디 진행  
+- 스터디 공부 내용을 주차별로 정리(Week1 ~ Week9)
+- 머신러닝/딥러닝 기반의 모델 적용(Week10 ~ 진행 중)  
 
 ## 각 주차별 내용 정리
 ### 1. Week1
@@ -14,7 +15,10 @@
 3. 4점 이상이 가장 많이 기록된 영화 3개 구하기
 * notebook : [homework_week1](https://github.com/gimys/recommeder_system/blob/master/week1/hw1_note.ipynb)  
 
-### 2. Week3
+### 2. Week2(생략)  
+- 생략  
+
+### 3. Week3
 - 강의제목 : Introduction to Recommender Systems: Non-Personalized and Content-Based
 - 강의주소 : https://www.coursera.org/learn/recommender-systems-introduction
 - 시청강의 : Non-Personalized and Stereotype-Based Recommenders, Summary Statistics I & II, Demographics and Related Approaches
@@ -30,7 +34,7 @@
 4. 각 성별에서 4점 이상의 점수를 갖는 영화들의 성별간 차이를 구하기
 * notebook : [homework_week3](https://github.com/gimys/recommeder_system/blob/master/week3/week3_homework.ipynb)  
   
-### 3. Week4
+### 4. Week4
 - 강의제목 : Nearest Neighbor Collaborative Filtering
 - 강의주소 : https://www.coursera.org/learn/collaborative-filtering?specialization=recommender-systems
 - 시청강의 : User-User Collaborative Filtering, Configureing User-User Collaborative Filtering
@@ -48,7 +52,7 @@
 6. 4번 문제를 수식을 바꾸어 풀어보시오(notebook 참고)
 * notebook : [homework_week4](https://github.com/gimys/recommeder_system/blob/master/week4/week4_homework.ipynb)  
 
-### 4. Week5
+### 5. Week5
 - 강의제목 : Nearest Neighbor Collaborative Filtering
 - 강의주소 : https://www.coursera.org/learn/recommender-metrics?specialization=recommender-systems
 - 시청강의 : The Goals of Evaluation, Hidden Data Evaluation, Prediction Accuracy Metrics, Decision Support Metrics, Rank-Aware Top-N Metrics
@@ -65,7 +69,7 @@
 3. 2번과 같은 과정을 MSE와 RMSE로 계산하기
 * notebook : [homework_week5](https://github.com/gimys/recommeder_system/blob/master/week5/homwork_week5.ipynb)  
 
-### 5. Week6
+### 6. Week6
 - 강의제목 : Nearest Neighbor Collaborative Filtering
 - 강의주소 : https://www.coursera.org/learn/recommender-metrics?specialization=recommender-systems
 - 시청강의 : Beyond Basic Evaluation, Additional Item and List-Based Metrics, Experimental Protocols, Unary Data Evaluation
@@ -78,7 +82,7 @@
 > - pandas의 rank 함수는 method='first'를 적용하여 동점을 처리한다.
 * notebook : [homework_week6](https://github.com/gimys/recommeder_system/blob/master/week6/homework_week6.ipynb)  
 
-### 6. Week7
+### 7. Week7
 - 강의제목 : Nearest Neighbor Collaborative Filtering
 - 강의주소 : https://www.coursera.org/learn/matrix-factorization?specialization=recommender-systems
 - 시청강의 : Matrix Factorization and Advanced Techniques, Introduction to Matrix Factorization and Dimensionality Reduction, Singular Value Decomposition
@@ -88,16 +92,27 @@
 > - pandas의 rank 함수는 method='first'를 적용하여 동점을 처리한다.
 * notebook : [homework_week7](https://github.com/gimys/recommeder_system/blob/master/week7/homework_week7.ipynb)  
 
-### 7. Week8
+### 8. Week8
 - 스터디 내용 : 기본적인 추천 알고리즘 실습 및 논문 작성을 위한 선행 연구 조사 결과 공유
 
 - 과제  
 1. pytorch의 dataloader 사용을 위한 class 오버라이딩 실습  
 * notebook : [homework_week8](https://github.com/gimys/recommeder_system/blob/master/week8/homework_week8.ipynb)  
 
-### 8. Week9
+### 9. Week9
 - 스터디 내용 : surprise 모듈을 활용한 Matrix Factorization 실습  
 
 - 과제  
 1. Surprise를 사용해서 binary 데이터의 Matrix Factorization 실시  
 * notebook : [homework_week9](https://github.com/gimys/recommeder_system/blob/master/week9/homework_week9.ipynb)  
+
+### 10. Week10
+- 논문명 :  Neural Collaborative Filtering  
+- 논문출처 : https://arxiv.org/abs/1708.05031  
+- 내용 : User와 Item을 임베딩하여 dot product로 유사도를 구하는 딥러닝 기반의 matrix factorization 기법  
+
+
+### 11. Week11
+- 논문명 :  Neural Collaborative Filtering  
+- 논문출처 : https://arxiv.org/abs/1708.05031  
+- 내용 : User와 Item을 임베딩하여 dot product로 유사도를 구하는 딥러닝 기반의 matrix factorization 기법  
