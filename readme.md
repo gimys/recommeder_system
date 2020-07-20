@@ -104,7 +104,7 @@
 
 - 과제  
 1. Surprise를 사용해서 binary 데이터의 Matrix Factorization 실시  
-* notebook : [homework_week9](https://github.com/gimys/recommeder_system/blob/master/week9/homework_week9.ipynb)  
+* notebook : [homework_week9](https://github.com/gimys/recommeder_system/blob/master/week9/suprise_practice.ipynb)  
 
 ### 10. Week10
 - 논문명 :  Neural Collaborative Filtering  
