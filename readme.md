@@ -110,9 +110,5 @@
 - 논문명 :  Neural Collaborative Filtering  
 - 논문출처 : https://arxiv.org/abs/1708.05031  
 - 내용 : User와 Item을 임베딩하여 dot product로 유사도를 구하는 딥러닝 기반의 matrix factorization 기법  
-
-
-### 11. Week11
-- 논문명 :  Neural Collaborative Filtering  
-- 논문출처 : https://arxiv.org/abs/1708.05031  
-- 내용 : User와 Item을 임베딩하여 dot product로 유사도를 구하는 딥러닝 기반의 matrix factorization 기법  
+- 모델구현 : 무비렌즈 데이터를 활용한 Neural Collaborative Filtering 모델 구현(Pytorch)
+* notebook : [Neural Collaborative Filtering Model example](https://github.com/gimys/recommeder_system/blob/master/week10/NeuMF.ipynb)  
